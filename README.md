@@ -1,7 +1,5 @@
 **GDNMF**
 
-note: The function 'dnmtf_RES'  is the previous name of GDNMF, which is called in GDNMG().
-
 **Input**
 
 X: data matrix p * n
